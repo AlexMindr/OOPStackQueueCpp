@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1574885198 source:e:\codeblocks\projects\prpoo2header\perechefct.cpp
+	<iostream>
+	"pereche.h"
+
+1574885161 e:\codeblocks\projects\prpoo2header\pereche.h
+	<iostream>
+
+1574885165 source:e:\codeblocks\projects\prpoo2header\coadafct.cpp
+	<iostream>
+	"pereche.h"
+	"multime.h"
+	"coada.h"
+
+1574882862 e:\codeblocks\projects\prpoo2header\exceptii.h
+	<iostream>
+
+1574883191 e:\codeblocks\projects\prpoo2header\multime.h
+	<iostream>
+	"pereche.h"
+
+1574885171 e:\codeblocks\projects\prpoo2header\coada.h
+	<iostream>
+	"pereche.h"
+	"multime.h"
+
+1574885191 source:e:\codeblocks\projects\prpoo2header\multimefct.cpp
+	<iostream>
+	"pereche.h"
+	"multime.h"
+
+1574885153 source:e:\codeblocks\projects\prpoo2header\main.cpp
+	<iostream>
+	"pereche.h"
+	"multime.h"
+	"coada.h"
+	"stiva.h"
+	"stiva2cozi.h"
+
+1574885177 e:\codeblocks\projects\prpoo2header\stiva.h
+	<iostream>
+	"pereche.h"
+	"multime.h"
+
+1574885213 source:e:\codeblocks\projects\prpoo2header\stivafct.cpp
+	<iostream>
+	"pereche.h"
+	"multime.h"
+	"stiva.h"
+
+1574881121 e:\codeblocks\projects\prpoo2header\exceptii2.h
+	<iostream>
+
+1574885205 source:e:\codeblocks\projects\prpoo2header\stiva2cozifct.cpp
+	<iostream>
+	"pereche.h"
+	"multime.h"
+	"stiva.h"
+	"coada.h"
+	"stiva2cozi.h"
+
+1574885183 e:\codeblocks\projects\prpoo2header\stiva2cozi.h
+	<iostream>
+	"pereche.h"
+	"multime.h"
+	"stiva.h"
+	"coada.h"
+
