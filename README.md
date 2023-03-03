@@ -1,2 +1,1 @@
-# PrPOO2Header
- Proiect2POO
+OOP with stack and queue number pairs and operations on them in C++ 
